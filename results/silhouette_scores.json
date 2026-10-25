@@ -1,0 +1,26 @@
+{
+  "c3d": {
+    "silhouette_euclidean": 0.0839180201292038,
+    "silhouette_cosine": 0.10603053867816925,
+    "silhouette_tsne2d": 0.02074565924704075,
+    "dim": 4096
+  },
+  "siamese": {
+    "silhouette_euclidean": -0.19054627418518066,
+    "silhouette_cosine": -0.2896740436553955,
+    "silhouette_tsne2d": -0.18722623586654663,
+    "dim": 512
+  },
+  "fusion": {
+    "silhouette_euclidean": 0.117609903216362,
+    "silhouette_cosine": 0.18548840284347534,
+    "silhouette_tsne2d": 0.13592903316020966,
+    "dim": 1024
+  },
+  "r2plus1d": {
+    "silhouette_euclidean": 0.1652841418981552,
+    "silhouette_cosine": 0.28519392013549805,
+    "silhouette_tsne2d": 0.4533061981201172,
+    "dim": 512
+  }
+}

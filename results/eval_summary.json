@@ -1,0 +1,242 @@
+{
+  "c3d": {
+    "top1": 0.5175438596491229,
+    "top5": 0.8771929740905762,
+    "macro_f1": 0.510727895179416,
+    "report": {
+      "Archery": {
+        "precision": 0.38235294117647056,
+        "recall": 0.3170731707317073,
+        "f1-score": 0.3466666666666667,
+        "support": 41.0
+      },
+      "BabyCrawling": {
+        "precision": 0.44680851063829785,
+        "recall": 0.6,
+        "f1-score": 0.5121951219512195,
+        "support": 35.0
+      },
+      "Basketball": {
+        "precision": 0.5681818181818182,
+        "recall": 0.7142857142857143,
+        "f1-score": 0.6329113924050633,
+        "support": 35.0
+      },
+      "Fencing": {
+        "precision": 0.6666666666666666,
+        "recall": 0.6470588235294118,
+        "f1-score": 0.6567164179104478,
+        "support": 34.0
+      },
+      "HandstandWalking": {
+        "precision": 0.3793103448275862,
+        "recall": 0.3235294117647059,
+        "f1-score": 0.3492063492063492,
+        "support": 34.0
+      },
+      "PullUps": {
+        "precision": 0.4411764705882353,
+        "recall": 0.5357142857142857,
+        "f1-score": 0.4838709677419355,
+        "support": 28.0
+      },
+      "PushUps": {
+        "precision": 0.25925925925925924,
+        "recall": 0.23333333333333334,
+        "f1-score": 0.24561403508771928,
+        "support": 30.0
+      },
+      "Surfing": {
+        "precision": 0.9117647058823529,
+        "recall": 0.9393939393939394,
+        "f1-score": 0.9253731343283582,
+        "support": 33.0
+      },
+      "WalkingWithDog": {
+        "precision": 0.5405405405405406,
+        "recall": 0.5555555555555556,
+        "f1-score": 0.547945205479452,
+        "support": 36.0
+      },
+      "YoYo": {
+        "precision": 0.5217391304347826,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.4067796610169492,
+        "support": 36.0
+      },
+      "accuracy": 0.5175438596491229,
+      "macro avg": {
+        "precision": 0.511780038819601,
+        "recall": 0.5199277567641987,
+        "f1-score": 0.510727895179416,
+        "support": 342.0
+      },
+      "weighted avg": {
+        "precision": 0.5123548914948,
+        "recall": 0.5175438596491229,
+        "f1-score": 0.5097007374090244,
+        "support": 342.0
+      }
+    }
+  },
+  "r2plus1d": {
+    "top1": 0.9385964912280702,
+    "top5": 1.0,
+    "macro_f1": 0.9393801813165827,
+    "report": {
+      "Archery": {
+        "precision": 0.8636363636363636,
+        "recall": 0.926829268292683,
+        "f1-score": 0.8941176470588236,
+        "support": 41.0
+      },
+      "BabyCrawling": {
+        "precision": 0.9210526315789473,
+        "recall": 1.0,
+        "f1-score": 0.958904109589041,
+        "support": 35.0
+      },
+      "Basketball": {
+        "precision": 0.9722222222222222,
+        "recall": 1.0,
+        "f1-score": 0.9859154929577465,
+        "support": 35.0
+      },
+      "Fencing": {
+        "precision": 0.9714285714285714,
+        "recall": 1.0,
+        "f1-score": 0.9855072463768116,
+        "support": 34.0
+      },
+      "HandstandWalking": {
+        "precision": 0.8709677419354839,
+        "recall": 0.7941176470588235,
+        "f1-score": 0.8307692307692308,
+        "support": 34.0
+      },
+      "PullUps": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.9230769230769231,
+        "support": 28.0
+      },
+      "PushUps": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 30.0
+      },
+      "Surfing": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 33.0
+      },
+      "WalkingWithDog": {
+        "precision": 0.9210526315789473,
+        "recall": 0.9722222222222222,
+        "f1-score": 0.9459459459459459,
+        "support": 36.0
+      },
+      "YoYo": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 36.0
+      },
+      "accuracy": 0.9385964912280702,
+      "macro avg": {
+        "precision": 0.9429451071471444,
+        "recall": 0.9383645328049919,
+        "f1-score": 0.9393801813165827,
+        "support": 342.0
+      },
+      "weighted avg": {
+        "precision": 0.9391823184521185,
+        "recall": 0.9385964912280702,
+        "f1-score": 0.937676799905876,
+        "support": 342.0
+      }
+    }
+  },
+  "fusion": {
+    "top1": 0.6695906432748538,
+    "top5": 0.9298245906829834,
+    "macro_f1": 0.6724216486200624,
+    "report": {
+      "Archery": {
+        "precision": 0.4090909090909091,
+        "recall": 0.21951219512195122,
+        "f1-score": 0.2857142857142857,
+        "support": 41.0
+      },
+      "BabyCrawling": {
+        "precision": 0.54,
+        "recall": 0.7714285714285715,
+        "f1-score": 0.6352941176470588,
+        "support": 35.0
+      },
+      "Basketball": {
+        "precision": 0.5833333333333334,
+        "recall": 0.8,
+        "f1-score": 0.6746987951807228,
+        "support": 35.0
+      },
+      "Fencing": {
+        "precision": 0.6976744186046512,
+        "recall": 0.8823529411764706,
+        "f1-score": 0.7792207792207793,
+        "support": 34.0
+      },
+      "HandstandWalking": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1-score": 0.5,
+        "support": 34.0
+      },
+      "PullUps": {
+        "precision": 0.9473684210526315,
+        "recall": 0.6428571428571429,
+        "f1-score": 0.7659574468085106,
+        "support": 28.0
+      },
+      "PushUps": {
+        "precision": 1.0,
+        "recall": 0.6333333333333333,
+        "f1-score": 0.7755102040816326,
+        "support": 30.0
+      },
+      "Surfing": {
+        "precision": 0.9642857142857143,
+        "recall": 0.8181818181818182,
+        "f1-score": 0.8852459016393442,
+        "support": 33.0
+      },
+      "WalkingWithDog": {
+        "precision": 0.6764705882352942,
+        "recall": 0.6388888888888888,
+        "f1-score": 0.6571428571428571,
+        "support": 36.0
+      },
+      "YoYo": {
+        "precision": 0.6888888888888889,
+        "recall": 0.8611111111111112,
+        "f1-score": 0.7654320987654321,
+        "support": 36.0
+      },
+      "accuracy": 0.6695906432748538,
+      "macro avg": {
+        "precision": 0.7007112273491423,
+        "recall": 0.6767666002099288,
+        "f1-score": 0.6724216486200624,
+        "support": 342.0
+      },
+      "weighted avg": {
+        "precision": 0.6851199114307746,
+        "recall": 0.6695906432748538,
+        "f1-score": 0.6613902688790895,
+        "support": 342.0
+      }
+    }
+  }
+}

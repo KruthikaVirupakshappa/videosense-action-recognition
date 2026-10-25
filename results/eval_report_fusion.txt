@@ -1,0 +1,19 @@
+Two-stream (concat)
+Top-1 0.6696  Top-5 0.9298  macro-F1 0.6724
+
+                  precision    recall  f1-score   support
+
+         Archery      0.409     0.220     0.286        41
+    BabyCrawling      0.540     0.771     0.635        35
+      Basketball      0.583     0.800     0.675        35
+         Fencing      0.698     0.882     0.779        34
+HandstandWalking      0.500     0.500     0.500        34
+         PullUps      0.947     0.643     0.766        28
+         PushUps      1.000     0.633     0.776        30
+         Surfing      0.964     0.818     0.885        33
+  WalkingWithDog      0.676     0.639     0.657        36
+            YoYo      0.689     0.861     0.765        36
+
+        accuracy                          0.670       342
+       macro avg      0.701     0.677     0.672       342
+    weighted avg      0.685     0.670     0.661       342

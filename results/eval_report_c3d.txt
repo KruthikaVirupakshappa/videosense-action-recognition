@@ -1,0 +1,19 @@
+C3D (scratch)
+Top-1 0.5175  Top-5 0.8772  macro-F1 0.5107
+
+                  precision    recall  f1-score   support
+
+         Archery      0.382     0.317     0.347        41
+    BabyCrawling      0.447     0.600     0.512        35
+      Basketball      0.568     0.714     0.633        35
+         Fencing      0.667     0.647     0.657        34
+HandstandWalking      0.379     0.324     0.349        34
+         PullUps      0.441     0.536     0.484        28
+         PushUps      0.259     0.233     0.246        30
+         Surfing      0.912     0.939     0.925        33
+  WalkingWithDog      0.541     0.556     0.548        36
+            YoYo      0.522     0.333     0.407        36
+
+        accuracy                          0.518       342
+       macro avg      0.512     0.520     0.511       342
+    weighted avg      0.512     0.518     0.510       342

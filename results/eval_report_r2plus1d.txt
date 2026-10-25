@@ -1,0 +1,19 @@
+R(2+1)D-18 (pretrained)
+Top-1 0.9386  Top-5 1.0000  macro-F1 0.9394
+
+                  precision    recall  f1-score   support
+
+         Archery      0.864     0.927     0.894        41
+    BabyCrawling      0.921     1.000     0.959        35
+      Basketball      0.972     1.000     0.986        35
+         Fencing      0.971     1.000     0.986        34
+HandstandWalking      0.871     0.794     0.831        34
+         PullUps      1.000     0.857     0.923        28
+         PushUps      1.000     1.000     1.000        30
+         Surfing      1.000     1.000     1.000        33
+  WalkingWithDog      0.921     0.972     0.946        36
+            YoYo      0.909     0.833     0.870        36
+
+        accuracy                          0.939       342
+       macro avg      0.943     0.938     0.939       342
+    weighted avg      0.939     0.939     0.938       342

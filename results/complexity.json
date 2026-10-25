@@ -1,0 +1,26 @@
+{
+  "c3d": {
+    "params": 63362186,
+    "trainable_params": 63362186,
+    "mult_adds_G": 38.555721098,
+    "flops_G": 77.111442196
+  },
+  "r2plus1d": {
+    "params": 31305255,
+    "trainable_params": 5130,
+    "mult_adds_G": 40.51890664,
+    "flops_G": 81.03781328
+  },
+  "siamese": {
+    "params": 32905856,
+    "trainable_params": 32905856,
+    "mult_adds_G": 77.050529536,
+    "flops_G": 154.101059072
+  },
+  "fusion": {
+    "params": 60051018,
+    "trainable_params": 60051018,
+    "mult_adds_G": 76.697954058,
+    "flops_G": 153.395908116
+  }
+}

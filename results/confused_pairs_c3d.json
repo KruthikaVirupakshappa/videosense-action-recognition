@@ -1,0 +1,32 @@
+[
+  {
+    "a": "Basketball",
+    "b": "PushUps",
+    "rate_ab": 0.11428571428571428,
+    "rate_ba": 0.23333333333333334,
+    "motion_a": 0.3093802327024085,
+    "motion_b": 0.4571070977797111,
+    "example_a": "v_Basketball_g01_c01.avi",
+    "example_b": "v_PushUps_g02_c01.avi"
+  },
+  {
+    "a": "Archery",
+    "b": "PullUps",
+    "rate_ab": 0.1951219512195122,
+    "rate_ba": 0.14285714285714285,
+    "motion_a": 0.4043426711748286,
+    "motion_b": 0.23773084062018565,
+    "example_a": "v_Archery_g04_c01.avi",
+    "example_b": "v_PullUps_g01_c01.avi"
+  },
+  {
+    "a": "BabyCrawling",
+    "b": "PushUps",
+    "rate_ab": 0.2,
+    "rate_ba": 0.13333333333333333,
+    "motion_a": 0.5791984264339719,
+    "motion_b": 0.4571070977797111,
+    "example_a": "v_BabyCrawling_g05_c02.avi",
+    "example_b": "v_PushUps_g01_c01.avi"
+  }
+]

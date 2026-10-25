@@ -1,0 +1,1 @@
+"""VideoSense model definitions."""

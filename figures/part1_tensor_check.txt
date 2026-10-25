@@ -1,0 +1,2 @@
+RGB clip tensor: shape (3, 16, 112, 112) (C, T, H, W), dtype torch.float32, mean 1.201, std 0.954, label 0 (Archery)
+Flow stack: shape (2, 16, 112, 112) (2, T, H, W), dtype float32, |flow| max 13.34 px

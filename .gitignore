@@ -1,0 +1,14 @@
+# dataset and caches (rebuilt by prepare_data.py)
+data/
+
+# large model checkpoints (over GitHub's 100 MB limit)
+*.pt
+
+# Python / OS / editor junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# submission archive
+*.zip
